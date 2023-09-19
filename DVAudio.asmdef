@@ -1,0 +1,16 @@
+{
+    "name": "DVAudio",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e7d6513d4619e9a4f941a0d8d9aedf0a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
